@@ -1,6 +1,6 @@
 # DSA - Interview Problemes
 
-### Total Problem Count:
+### Total Problem Count: 96
 
 ## Linked List
 
@@ -39,3 +39,70 @@
 33. Reverse Nodes in k-Group 🔴 [[leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-list-in-k-groups_983644)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)]
 34. Flattening a Linked List 🔴 [[code360](https://www.naukri.com/code360/problems/flatten-a-linked-list_1112655)] [[gfg](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)]
 35. Copy List with Random Pointer 🔴 [[leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/description/)] [[code360](https://www.naukri.com/code360/problems/clone-a-linked-list-with-random-pointers_983604)] [[gfg](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)]
+
+## Stack & Queue
+
+1. Implement stack using an array 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)]
+2. Implement Queue using an array 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1)]
+3. Implement Stack using Queues 🟢 [[gfg](https://www.geeksforgeeks.org/problems/stack-using-two-queues/1)]
+4. Implement Queue using Stacks 🟢 [[gfg](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1)]
+5. Implement Stack using Linked List 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)]
+6. Implement Queue using Linked List 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)]
+7. Valid Parentheses 🟢 [[leetcode](https://leetcode.com/problems/valid-parentheses/description/)] [[code360](https://www.naukri.com/code360/problems/valid-parenthesis_795104)] [[gfg](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)]
+8. Prefix to Infix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1)]
+9. Prefix to Postfix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1)]
+10. Postfix to Prefix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1)]
+11. Postfix to Infix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1)]
+12. Infix to Postfix 🟡 [[gfg](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)]
+13. Infix to Prefix 🟡 [[gfg](https://www.geeksforgeeks.org/convert-infix-prefix-notation/)]
+14. Min Stack 🟡 [[leetcode](https://leetcode.com/problems/min-stack/description/)] [[code360](https://www.naukri.com/code360/problems/min-stack_3843991)] [[gfg](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)]
+15. Next Greater Element 🟢 [[leetcode](https://leetcode.com/problems/next-greater-element-i/description/)] [[code360](https://www.naukri.com/code360/problems/next-greater-element_670312)] [[gfg](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1)]
+16. Next Greater Element 2 🟢 [[leetcode](https://leetcode.com/problems/next-greater-element-ii/description/)] [[code360](https://www.naukri.com/code360/problems/next-greater-element-ii_6212757)] [[gfg](https://www.geeksforgeeks.org/problems/next-greater-element-2/1)]
+17. The smallest number on the left 🟢 [[gfg](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1)]
+18. Asteroid Collision 🔴 [[leetcode](https://leetcode.com/problems/asteroid-collision/description/)] [[code360](https://www.naukri.com/code360/problems/asteroid-collision_977232)] [[gfg](https://www.geeksforgeeks.org/problems/asteroid-collision/1)]
+19. Remove K Digits 🔴 [[leetcode](https://leetcode.com/problems/remove-k-digits/description/)] [[code360](https://www.naukri.com/code360/problems/remove-k-digits_1461221)] [[gfg](https://www.geeksforgeeks.org/problems/remove-k-digits/1)]
+20. Maximum Rectangular Area in a Histogram 🔴 [[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)] [[code360](https://www.naukri.com/code360/problems/largest-rectangle-in-a-histogram_1058184)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)]
+21. Maximal Rectangle 🔴 [[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-size-rectangle-sub-matrix-with-all-1-s_893017)] [[gfg](https://www.geeksforgeeks.org/problems/max-rectangle/1)]
+22. The sum of the subarray minimum 🔴 [[leetcode](https://leetcode.com/problems/sum-of-subarray-minimums/description/)] [[code360](https://www.naukri.com/code360/problems/find-minimum-sum-subarray-of-given-size_873368)] [[gfg](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1)]
+23. The sum of Subarray Ranges 🔴 [[leetcode](https://leetcode.com/problems/sum-of-subarray-ranges/description/)] [[code360](https://www.naukri.com/code360/problems/subarray-with-given-sum_842487)] [[gfg](https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1)]
+24. K-Sized Subarray Maximum 🔴 [[leetcode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-of-all-subarrays-of-size-k_1170789)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)]
+25. Stock span problem 🟡 [[leetcode](https://leetcode.com/problems/online-stock-span/description/)] [[code360](https://www.naukri.com/code360/problems/stock-span_5243295)] [[gfg](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)]
+26. The Celebrity Problem 🟡 [[leetcode](https://www.lintcode.com/problem/645/)] [[code360](https://www.naukri.com/code360/problems/the-celebrity-problem_982769)] [[gfg](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)]
+27. Daily Temperatures [[leetcode](https://leetcode.com/problems/daily-temperatures/description/)]
+28. 132 Pattern [[leetcode](https://leetcode.com/problems/132-pattern/description/)]
+29. Trapping Rain Water [[leetcode](https://leetcode.com/problems/trapping-rain-water/description/)] [[code360](https://www.naukri.com/code360/problems/trapping-rainwater_630519)] [[gfg](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)]
+30. Number of Visible People in a Queue [[leetcode](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)] [[code360](https://www.naukri.com/code360/problems/order-of-people-heights_1170764)]
+31. Buildings With an Ocean View [[leetcode](https://leetcode.com/problems/buildings-with-an-ocean-view/description/)] [[solution](https://leetcode.ca/2021-04-14-1762-Buildings-With-an-Ocean-View/)]
+
+## Heap
+
+1. Implementation of Priority Queue using Binary Heap 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)]
+2. Binary Heap Operations 🟢 [[gfg](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)]
+3. Does array represent Heap 🟢 [[gfg](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)]
+4. Convert Min Heap to Max Heap 🟢 [[code360](https://www.naukri.com/code360/problems/convert-min-heap-to-max-heap_630293)] [[gfg](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1)]
+5. Kth Largest Element in an Array 🟢 [[leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)] [[code360](https://www.naukri.com/code360/problems/kth-largest-element-in-the-unsorted-array_893030)]
+6. Kth Smallest Element in an Array 🟢 [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)]
+7. K Closest Points to Origin 🟡 [[leetcode](https://leetcode.com/problems/k-closest-points-to-origin/description/)] [[code360](https://www.naukri.com/code360/problems/k-closest-points-to-origin_1094908)]
+8. Top K Frequent Elements 🟡 [[leetcode](https://leetcode.com/problems/top-k-frequent-elements/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-elements_3167808)] [[gfg](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)]
+9. Top K Frequent Words 🟡 [[leetcode](https://leetcode.com/problems/top-k-frequent-words/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-words_696192)]
+10. Sort Characters By Frequency 🟡 [[leetcode](https://leetcode.com/problems/sort-characters-by-frequency/description/)] [[code360](https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699)]
+11. Kth Largest Element in a Stream 🟡 [[leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)] [[code360](https://www.naukri.com/code360/problems/kthlargestnumber_800301)] [[gfg](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)]
+12. Reorganize String 🟡 [[leetcode](https://leetcode.com/problems/reorganize-string/description/)] [[code360](https://www.naukri.com/code360/problems/rearrange-string_982765)] [[gfg](https://www.geeksforgeeks.org/problems/rearrange-characters4649/1)]
+13. Rearrange String k Distance Apart 🔴 [[leetcode](https://www.lintcode.com/problem/907/)] [[code360](https://www.naukri.com/code360/problems/ninja-favourite-string_1460386)]
+14. Nearly Sorted Array 🟡 [[code360](https://www.naukri.com/code360/problems/nearly-sorted_982937)] [[gfg](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)]
+15. Find K Closest Elements 🟡 [[leetcode](https://leetcode.com/problems/find-k-closest-elements/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-closest-elements_1263702)] [[gfg](https://www.geeksforgeeks.org/problems/k-closest-elements3619/0)]
+16. Kth Smallest Element in a Sorted Matrix 🟡 [[leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)] [[gfg](https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1)]
+17. Merge K-Sorted Lists 🟡 [[leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/)] [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-lists_992772)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)]
+18. Merge k Sorted Arrays 🟡 [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)]
+19. Find K Pairs with Smallest Sums 🔴 [[leetcode](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-pairs-with-smallest-sums_1381413)]
+20. Connect N Ropes With Minimum Cost  🟡 [[code360](https://www.naukri.com/code360/problems/connect-n-ropes-with-minimum-cost_630476)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)]
+21. Meeting Rooms II 🔴 [[leetcode](https://www.lintcode.com/problem/919/)] [[code360](https://www.naukri.com/code360/problems/meeting-room-ii_893289)]
+22. Employee Free Time 🔴  [[leetcode](https://www.lintcode.com/problem/850/description)] [[code360](https://www.naukri.com/code360/problems/employee-free-time_1171181)]
+23. Task Scheduler 🔴 [[leetcode](https://leetcode.com/problems/task-scheduler/description/)] [[code360](https://www.naukri.com/code360/problems/task-scheduler_1070424)] [[gfg](https://www.geeksforgeeks.org/problems/task-scheduler/1)]
+24. Minimum Number of Refuelling Stops 🔴 [[leetcode](https://leetcode.com/problems/minimum-number-of-refueling-stops/)] [[code360](https://www.naukri.com/code360/problems/ninja-and-stops_1262353)]
+25. Minimum Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)] [[code360](https://www.naukri.com/code360/problems/minimum-cost-to-hire-m-candidates_1387106)]
+26. Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)]
+27. Furthest Building You Can Reach [[leetcode](https://leetcode.com/problems/furthest-building-you-can-reach/description/)] [[code360](https://www.naukri.com/code360/problems/furthest-building-you-can-reach_1382372)]
+28. Course Schedule III [[leetcode](https://leetcode.com/problems/course-schedule-iii/description/)]
+29. Find K-th Smallest Pair Distance [[leetcode](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)]
+30. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](https://www.naukri.com/code360/problems/median-in-a-stream_975268)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)]
