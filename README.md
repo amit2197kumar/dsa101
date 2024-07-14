@@ -1,6 +1,6 @@
 # DSA - Interview Problemes
 
-### Total Problem Count: 96
+### Total Problem Count: 127
 
 ## Linked List
 
@@ -106,3 +106,37 @@
 28. Course Schedule III [[leetcode](https://leetcode.com/problems/course-schedule-iii/description/)]
 29. Find K-th Smallest Pair Distance [[leetcode](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)]
 30. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](https://www.naukri.com/code360/problems/median-in-a-stream_975268)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)]
+31. Minimize Max Distance to Gas Station 🟣 [[gfg](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1)]
+
+## Binary Search
+
+1. Binary Search (Iterative & recursive) 🟢 [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)]
+2. Ceil The Floor (Lower Bound and Upper Bound) 🟢 [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)]
+3. Search Insert Position 🟢 [[leetcode](https://leetcode.com/problems/search-insert-position/description/)] [[code360](https://www.naukri.com/code360/problems/algorithm-to-find-best-insert-position-in-sorted-array_839813)] [[gfg](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1)]
+4. First and Last Position of an Element In Sorted Array **🟡** [[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)] [[gfg](https://www.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x0849/1)]
+5. Number of occurrences 🟡 [[code360](https://www.naukri.com/code360/problems/occurrence-of-x-in-a-sorted-array_630456)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)]
+6. Search in Rotated Sorted Array 🟡 [[leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-rotated-sorted-array_630450)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)]
+7. Search in rotated sorted array with duplicates 🟡 [[leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-rotated-array-2/1)]
+8. Find Minimum in Rotated Sorted Array 🟡 [[leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/rotated-array_1093219)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)]
+9. Find Minimum in Rotated Sorted Array II (Duplicate) [[leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)]
+10. Find out how many times an array has been rotated 🟡 [[gfg](https://www.geeksforgeeks.org/problems/rotation4723/1)]
+11. Single Element in a Sorted Array 🟡 [[leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)]
+12. Peak Index in a Mountain Array 🟢[[leetcode](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)] [[gfg](https://www.geeksforgeeks.org/problems/peak-element/1)]
+13. Find Peak Element 🟡 [[leetcode](https://leetcode.com/problems/find-peak-element/description/)] [[code360](https://www.naukri.com/code360/problems/find-peak-element_1081482)] [[gfg](https://www.geeksforgeeks.org/problems/peak-element/1)]
+14. Find the square root of a number in log n 🟡 [[leetcode](https://leetcode.com/problems/sqrtx/description/)] [[code360](https://www.naukri.com/code360/problems/square-root-integral_893351)] [[gfg](https://www.geeksforgeeks.org/problems/square-root/0)]
+15. Koko Eating Bananas 🟡 [[leetcode](https://leetcode.com/problems/koko-eating-bananas/description/)] [[gfg](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1)]
+16. Minimum Number of Days to Make m Bouquets 🟡 [[leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)] [[code360](https://www.naukri.com/code360/problems/rose-garden_2248080)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1)]
+17. Find the Smallest Divisor Given a Threshold 🟡 [[leetcode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)] [[code360](https://www.naukri.com/code360/problems/smallest-divisor-with-the-given-limit_1755882)] [[gfg](https://www.geeksforgeeks.org/problems/smallest-divisor/1)]
+18. Capacity To Ship Packages Within D Days 🟡 [[leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)] [[code360](https://www.naukri.com/code360/problems/capacity-to-ship-packages-within-d-days_1229379)] [[gfg](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)]
+19. Kth Missing Positive Number 🔴 [[leetcode](https://leetcode.com/problems/kth-missing-positive-number/description/)] [[code360](https://www.naukri.com/code360/problems/kth-missing-element_893215)] [[gfg](https://www.geeksforgeeks.org/problems/k-th-missing-element3635/0)]
+20. Aggressive Cows 🔴 [[code360](https://www.naukri.com/code360/problems/aggressive-cows_1082559)] [[gfg](https://www.geeksforgeeks.org/problems/aggressive-cows/0)]
+21. Allocate Books 🔴 [[code360](https://www.naukri.com/code360/problems/allocate-books_1090540)] [[gfg](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)]
+22. Split Array Largest Sum 🔴 [[leetcode](https://leetcode.com/problems/split-array-largest-sum/description/)] [[code360](https://www.naukri.com/code360/problems/split-the-given-array-into-k-sub-arrays_1215015)] [[gfg](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/0)]
+23. Painter's Partition 🔴 [[code360](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)] [[gfg](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)]
+24. Median of Two Sorted Arrays 🟣 [[leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)] [[code360](https://www.naukri.com/code360/problems/median-of-two-sorted-arrays_985294)] [[gfg](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1)]
+25. K-th element of two Arrays 🟣 [[code360](https://www.naukri.com/code360/problems/k-th-element-of-2-sorted-array_1164159)] [[gfg](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)]
+26. Row with max 1s 🟡 [[code360](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)] [[gfg](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)]
+27. Search a 2D Matrix 🟡 [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)]
+28. Search a 2D Matrix II 🟡 [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)]
+29. Find a Peak Element II 🔴 [[leetcode](https://leetcode.com/problems/find-a-peak-element-ii/description/)]
+30. Median in a row-wise sorted Matrix 🔴 [[code360](https://www.naukri.com/code360/problems/median-of-a-row-wise-sorted-matrix_1115473)] [[gfg](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)]
