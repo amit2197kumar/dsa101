@@ -1,4 +1,5 @@
-# Dynamic Programming (7)
+# Dynamic Programming (10)
+
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/climbing-stairs)]
 2. Frog Jump [[code360](https://www.naukri.com/code360/problems/frog-jump_3621012)] [[gfg](https://www.geeksforgeeks.org/problems/geek-jump/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/frog-jump)]
 3. Frog jump with K distances [[gfg](https://www.geeksforgeeks.org/problems/minimal-cost/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/frog-jump-with-k-distances)]
@@ -6,3 +7,6 @@
     1. House Robber 1 [[leetcode](https://leetcode.com/problems/house-robber/description/)] [[code360](https://www.naukri.com/code360/problems/loot-houses_630510)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-money2855/0)]
 5. House Robber 2 [[leetcode](https://leetcode.com/problems/house-robber-ii/description/)] [[code360](https://www.naukri.com/code360/problems/house-robber_839733)] [[gfg](https://www.geeksforgeeks.org/problems/house-robber-ii/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/house-robber)] ⭐️
 6. Ninja's training [[code360](https://www.naukri.com/code360/problems/ninja-s-training_3621003)] [[gfg](https://www.geeksforgeeks.org/problems/geeks-training/0)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/2d-dp/ninja's-training)] ⭐️
+7. Unique Paths [[leetcode](https://leetcode.com/problems/unique-paths/description/)] [[code360](https://www.naukri.com/code360/problems/total-unique-paths_1081470)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/grid-unique-paths)]
+    1. Unique paths II [[leetcode](https://leetcode.com/problems/unique-paths-ii/description/)] [[code360](https://www.naukri.com/code360/problems/maze-obstacles_977241)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/unique-paths-ii)]
+8. Minimum path sum in grid [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/minimum-path-sum-in-grid)]
