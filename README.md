@@ -1,4 +1,4 @@
-# Dynamic Programming (10)
+# **Dynamic Programming (11)**
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/climbing-stairs)]
 2. Frog Jump [[code360](https://www.naukri.com/code360/problems/frog-jump_3621012)] [[gfg](https://www.geeksforgeeks.org/problems/geek-jump/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/frog-jump)]
@@ -10,3 +10,4 @@
 7. Unique Paths [[leetcode](https://leetcode.com/problems/unique-paths/description/)] [[code360](https://www.naukri.com/code360/problems/total-unique-paths_1081470)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/grid-unique-paths)]
     1. Unique paths II [[leetcode](https://leetcode.com/problems/unique-paths-ii/description/)] [[code360](https://www.naukri.com/code360/problems/maze-obstacles_977241)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/unique-paths-ii)]
 8. Minimum path sum in grid [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/minimum-path-sum-in-grid)]
+    1. Triangle Path Sum [[leetcode](https://leetcode.com/problems/triangle/description/)] [[code360](https://www.naukri.com/code360/problems/triangle_1229398)] [[gfg](https://www.geeksforgeeks.org/problems/triangle-path-sum/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/triangle)]
